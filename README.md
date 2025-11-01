@@ -1,2 +1,1 @@
-# NuInsSeg
-Nuclei Instance Segmentation
+
